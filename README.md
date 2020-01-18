@@ -1,0 +1,1 @@
+Solution to promise-it-wont-hurt exercise
